@@ -6,11 +6,10 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 
 ## 👥 Team Members
 
-- **C Mani Chandrika** – ServiceNow Developer  
-- **A Chaithanya** – UI/UX & Form Designer  
-- **S M Chaithra** – Client Scripts & Table Developer  
-- **M Gangothri** – Testing & Documentation  
-- **S Ankitha** – Demo & Deployment  
+- *Parasuraman G* – Team Leader - 821022104035 
+- *Jaikumar R* – Team Member - 821022104018  
+- *Rakesh S* – Team Member - 821022104041  
+- *Sivaguru A* – Team Member - 821022104047  
 
 ---
 
