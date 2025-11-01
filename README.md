@@ -4,13 +4,6 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 
 ---
 
-## 📽️ Demo
-
-🎬 **Watch Demo:**  
-[Click to View on Google Drive](https://drive.google.com/your-demo-link)
-
----
-
 ## 👥 Team Members
 
 - **Parasuraman G** – Team Leader - 821022104035 
